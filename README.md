@@ -5,6 +5,6 @@ BIND付属のパフォーマンス測定ツールqueryperf用queryテキスト�
 
 CentOS5/CentOS6の標準パッケージのBINDで動作確認。
 
-Nominum:DNSPerf
-http://nominum.com/measurement-tools/
-こちらも同一形式なので使える。
+Nominum:DNSPerf<br>
+http://nominum.com/measurement-tools/<br>
+こちらも同一形式なので使える。<br>
