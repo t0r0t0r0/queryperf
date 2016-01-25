@@ -11,7 +11,7 @@ http://nominum.com/measurement-tools/<br>
 
 Usage : 
 
-  ./makequeryperftxt.sh /var/named/chroot/var/log/named.log
+    ./makequeryperftxt.sh /var/named/chroot/var/log/named.log
   www.yahoo.co.jp A
   www.ibm.com A
   ameblo.com A
